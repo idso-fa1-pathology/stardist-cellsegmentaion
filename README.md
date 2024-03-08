@@ -35,6 +35,4 @@ The model's performance is evaluated using precision, recall, accuracy, F1 score
 ## Installation
 Clone this repository and install the required dependencies:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
+
